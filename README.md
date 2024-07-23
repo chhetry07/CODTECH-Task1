@@ -1,3 +1,11 @@
+Name: Bhoomi Chhetry 
+Company: CODTECH IT SOLUTIONS
+ID:CT4WD4442
+Domain:Web Devolopment
+Duration:JULY 10th,2024 to AUGUST 10th,2024 
+Mentor:
+
+
 # To-Do list
 
 ## Overview
@@ -72,6 +80,4 @@ This Task Management Application is designed to help users keep track of their t
   - `TodoManager`: Manages task operations (add, edit, delete, toggle status, filter, save to localStorage).
   - `UIManager`: Manages UI interactions (event listeners, task display, alerts).
 
-## Author
 
-Developed by [Bhoomi Chhetry]
