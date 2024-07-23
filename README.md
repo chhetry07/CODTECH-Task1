@@ -1,8 +1,8 @@
-Name: Bhoomi Chhetry 
-Company: CODTECH IT SOLUTIONS
-ID:CT4WD4442
-Domain:Web Devolopment
-Duration:JULY 10th,2024 to AUGUST 10th,2024 
+Name: Bhoomi Chhetry <br>
+Company: CODTECH IT SOLUTIONS <br>
+ID:CT4WD4442 <br>
+Domain:Web Devolopment <br>
+Duration:JULY 10th,2024 to AUGUST 10th,2024 <br>
 Mentor:
 
 
